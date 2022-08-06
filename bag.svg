@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-163,0)">
+        <g id="cart" transform="matrix(1,0,0,1,163,0)">
+            <rect x="0" y="0" width="150" height="150" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1,-163,0)">
+                <path d="M238,16C252.35,16 264,27.65 264,42C264,56.35 252.35,68 238,68L238,57.75C246.693,57.75 253.75,50.693 253.75,42C253.75,33.307 246.693,26.25 238,26.25L238,16Z" style="fill-opacity:0.5;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-163,0)">
+                <path d="M238,26.25C229.307,26.25 222.25,33.307 222.25,42C222.25,50.693 229.307,57.75 238,57.75L238,68C223.65,68 212,56.35 212,42C212,27.65 223.65,16 238,16L238,26.25Z"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-163,0)">
+                <path d="M193.316,122.684L282.158,42L193.316,42L193.316,122.684L282.684,122.684L193.316,122.684Z"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-163,0)">
+                <path d="M282.684,42.478L282.158,42L282.684,42L282.684,42.478Z"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-163,0)">
+                <path d="M282.158,42L282.684,42.478L282.684,122.684L193.316,122.684L282.158,42Z" style="fill-opacity:0.5;"/>
+            </g>
+        </g>
+    </g>
+</svg>
